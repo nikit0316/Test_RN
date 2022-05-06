@@ -1,0 +1,5088 @@
+{
+  "data": {
+    "searchGroups": {
+      "data": [
+        {
+          "id": "7943751244591728827",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "R1 Enha in TBC LF R1 gaming in Wrath Classic, Pref BM Hunter",
+          "description": "",
+          "createdAt": "2022-04-24T13:58:54Z",
+          "scheduledAt": "2022-09-01T16:00:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 54,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1845069333638904693",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3v3 Glad Push 2,8 xp mglad Dk",
+          "description": "",
+          "createdAt": "2022-04-28T11:21:15Z",
+          "scheduledAt": "2022-05-31T13:30:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 32,
+          "slotsCount": 3,
+          "waitlistCount": 3,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 285,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "905163732172442578",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "Ret, War or DK LFM Glad and beyond",
+          "description": "",
+          "createdAt": "2022-04-09T23:18:15Z",
+          "scheduledAt": "2022-05-31T10:00:00Z",
+          "gameId": "WorldOfWarcraft",
+          "views": 390,
+          "slotsCount": 7,
+          "waitlistCount": 1,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "Unset",
+              "count": 2,
+              "taken": 0
+            },
+            {
+              "role": "WowHeal",
+              "count": 3,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 260,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "5532840388280376870",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "2,6 exp LF consistent mates (can play every evening) pref RMP",
+          "description": "",
+          "createdAt": "2022-04-27T13:29:40Z",
+          "scheduledAt": "2022-05-04T21:00:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 22,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 275,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6464951857515663507",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "1500CR RET LF feral + healer (any time)",
+          "description": "",
+          "createdAt": "2022-04-28T08:05:01Z",
+          "scheduledAt": "2022-05-04T00:00:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 6,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3676186750255539624",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "turbo time",
+          "description": "",
+          "createdAt": "2022-04-27T17:15:41Z",
+          "scheduledAt": "2022-05-03T23:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 27,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3958628260242767392",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3s",
+          "description": "",
+          "createdAt": "2022-04-26T22:43:18Z",
+          "scheduledAt": "2022-05-03T23:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 18,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "2975950359062255822",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3s PUMP",
+          "description": "",
+          "createdAt": "2022-04-27T17:15:06Z",
+          "scheduledAt": "2022-05-02T22:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 21,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "5900070698733033189",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3s chill cap",
+          "description": "",
+          "createdAt": "2022-04-26T22:42:48Z",
+          "scheduledAt": "2022-05-02T22:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 15,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6000431327908894140",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "VAULT FARM",
+          "description": "",
+          "createdAt": "2022-04-27T17:14:35Z",
+          "scheduledAt": "2022-05-01T21:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 18,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "4092030420774220682",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "TURBO ",
+          "description": "",
+          "createdAt": "2022-04-26T22:42:15Z",
+          "scheduledAt": "2022-05-01T20:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 10,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "8984496123536798695",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "turbo",
+          "description": "",
+          "createdAt": "2022-04-26T22:43:03Z",
+          "scheduledAt": "2022-05-01T20:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 32,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1558732339202939636",
+          "type": "Public",
+          "mode": "WowRaid",
+          "inviteCode": null,
+          "name": "sunctum tmog run",
+          "description": "",
+          "createdAt": "2022-04-28T12:59:37Z",
+          "scheduledAt": "2022-05-01T19:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 14,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowTank",
+              "count": 2,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 9,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 3,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 250,
+            "mythicPlusKey": null,
+            "raid": "SanctumOfDomination",
+            "raidDifficulty": "Normal"
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "8040207212678225144",
+          "type": "Waitlist",
+          "mode": "WowRaid",
+          "inviteCode": null,
+          "name": "Sylvanas (mythic) for mount",
+          "description": "",
+          "createdAt": "2022-04-23T15:08:21Z",
+          "scheduledAt": "2022-05-01T17:30:00+07:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 176,
+          "slotsCount": 30,
+          "waitlistCount": 1,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 17,
+          "slotsCountByRole": [
+            {
+              "role": "WowTank",
+              "count": 4,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 20,
+              "taken": 15
+            },
+            {
+              "role": "WowHeal",
+              "count": 6,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 270,
+            "mythicPlusKey": null,
+            "raid": "SanctumOfDomination",
+            "raidDifficulty": "Mythic"
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "5254325506745126862",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "chill cap 3s",
+          "description": "",
+          "createdAt": "2022-04-26T22:40:55Z",
+          "scheduledAt": "2022-04-30T23:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 14,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3240780373605874362",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "friendly ls glad Holy want to learn RMP/MLP - any day",
+          "description": "",
+          "createdAt": "2022-04-14T18:32:02Z",
+          "scheduledAt": "2022-04-30T18:45:00Z",
+          "gameId": "WorldOfWarcraft",
+          "views": 156,
+          "slotsCount": 3,
+          "waitlistCount": 5,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 0
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "490608047807318514",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "1.95cr lf healer / glad exp TSG",
+          "description": "",
+          "createdAt": "2022-04-24T17:32:54Z",
+          "scheduledAt": "2022-04-30T21:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 50,
+          "slotsCount": 3,
+          "waitlistCount": 1,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 278,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1933671547483865695",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "chill conquest cap",
+          "description": "",
+          "createdAt": "2022-04-27T17:14:03Z",
+          "scheduledAt": "2022-04-30T21:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 23,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "694846191277820686",
+          "type": "Waitlist",
+          "mode": "WowRaid",
+          "inviteCode": null,
+          "name": "EN/DE Horde - Sepulcher Achievment Run!",
+          "description": "",
+          "createdAt": "2022-04-29T14:15:12Z",
+          "scheduledAt": "2022-04-30T20:00:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 49,
+          "slotsCount": 19,
+          "waitlistCount": 2,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 14,
+              "taken": 0
+            },
+            {
+              "role": "WowHeal",
+              "count": 3,
+              "taken": 0
+            },
+            {
+              "role": "WowTank",
+              "count": 2,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": "SepulcherOfTheFirstOnes",
+            "raidDifficulty": "Normal"
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "7490294461964113660",
+          "type": "Waitlist",
+          "mode": null,
+          "inviteCode": null,
+          "name": "Turbo arens",
+          "description": "",
+          "createdAt": "2022-04-26T22:40:46Z",
+          "scheduledAt": "2022-04-30T20:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 25,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "Unset",
+              "count": 2,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "7223816368713874085",
+          "type": "Waitlist",
+          "mode": "WowMythicPlus",
+          "inviteCode": null,
+          "name": "LFM to push all day 20's+",
+          "description": "",
+          "createdAt": "2022-04-29T15:07:42Z",
+          "scheduledAt": "2022-04-30T13:00:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 5,
+          "slotsCount": 5,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 3,
+              "taken": 0
+            },
+            {
+              "role": "WowTank",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": 2600,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": 20,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "8981710023651258874",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3k+ ls xp mage lf consistent partners",
+          "description": "",
+          "createdAt": "2022-04-21T09:09:10Z",
+          "scheduledAt": "2022-04-30T11:15:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 90,
+          "slotsCount": 3,
+          "waitlistCount": 7,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "754332354407325392",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-29T14:54:00Z",
+          "scheduledAt": "2022-04-30T01:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "4589753077237176606",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-29T14:53:46Z",
+          "scheduledAt": "2022-04-30T00:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6216621704634905481",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "lf rmp 0cr. 2.4exp as hunt/warr. 2.6exp wotlk. ru/eng",
+          "description": "",
+          "createdAt": "2022-04-14T20:58:55Z",
+          "scheduledAt": "2022-04-30T00:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 84,
+          "slotsCount": 5,
+          "waitlistCount": 2,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "Unset",
+              "count": 2,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6061181456411876342",
+          "type": "Public",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "new to the game sv hunter 1500 cr looking for healer to push and practice ",
+          "description": "",
+          "createdAt": "2022-04-17T00:15:04Z",
+          "scheduledAt": "2022-04-30T00:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 41,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 254,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6645182317387055371",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-29T14:53:25Z",
+          "scheduledAt": "2022-04-30T00:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3552445930953260968",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-29T14:53:12Z",
+          "scheduledAt": "2022-04-29T23:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1779019788286433541",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-29T14:52:57Z",
+          "scheduledAt": "2022-04-29T22:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1824559145049807644",
+          "type": "Public",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Joefernandes 2s w Viewers",
+          "description": "",
+          "createdAt": "2022-04-29T10:16:28Z",
+          "scheduledAt": "2022-04-29T20:00:00+01:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 7,
+          "slotsCount": 9,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 8,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "5557711144022890770",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "LF chill cap",
+          "description": "",
+          "createdAt": "2022-04-29T16:08:07Z",
+          "scheduledAt": "2022-04-29T22:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "2959380429561524755",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-29T14:52:43Z",
+          "scheduledAt": "2022-04-29T21:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 9,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6008315277542029478",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "VAULT FARM",
+          "description": "",
+          "createdAt": "2022-04-26T22:40:17Z",
+          "scheduledAt": "2022-04-29T21:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 18,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6182546830396655481",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "1.9cr UHDK LF Heal to push 2s",
+          "description": "",
+          "createdAt": "2022-04-27T19:45:31Z",
+          "scheduledAt": "2022-04-29T20:00:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 22,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "5850750552287283510",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "Casual push 3v3, 1900 cr atm, had 2100cr in 3v3 this season alrdy.",
+          "description": "",
+          "createdAt": "2022-04-28T15:47:51Z",
+          "scheduledAt": "2022-04-29T19:00:00+01:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 28,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "962666021746440467",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-29T14:52:28Z",
+          "scheduledAt": "2022-04-29T21:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 12,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "4407628282372466601",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "LF cap 3s/2s",
+          "description": "",
+          "createdAt": "2022-04-29T14:55:03Z",
+          "scheduledAt": "2022-04-30T00:30:00+07:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 11,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6206312312351594819",
+          "type": "Waitlist",
+          "mode": null,
+          "inviteCode": null,
+          "name": "Pump arena 2x2",
+          "description": "",
+          "createdAt": "2022-04-26T22:39:30Z",
+          "scheduledAt": "2022-04-29T20:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 20,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "Unset",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "9177434160392881073",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3s",
+          "description": "",
+          "createdAt": "2022-04-27T17:13:29Z",
+          "scheduledAt": "2022-04-29T20:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 27,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "722031500435165095",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "TURBO 3k EXP LF HEAL OR DPS",
+          "description": "",
+          "createdAt": "2022-04-28T17:49:08Z",
+          "scheduledAt": "2022-04-29T17:15:00Z",
+          "gameId": "WorldOfWarcraft",
+          "views": 22,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "4075864517631820705",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-29T13:20:57Z",
+          "scheduledAt": "2022-04-29T20:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 11,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1024221091614953955",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "LF 3s or 2s",
+          "description": "",
+          "createdAt": "2022-04-29T14:23:24Z",
+          "scheduledAt": "2022-04-30T00:00:00+07:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 11,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3300311724602944370",
+          "type": "Waitlist",
+          "mode": "WowMythicPlus",
+          "inviteCode": null,
+          "name": "LFG to push 23+ keys",
+          "description": "",
+          "createdAt": "2022-04-20T15:36:40Z",
+          "scheduledAt": "2022-04-29T17:00:00Z",
+          "gameId": "WorldOfWarcraft",
+          "views": 39,
+          "slotsCount": 5,
+          "waitlistCount": 1,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 3,
+              "taken": 0
+            },
+            {
+              "role": "WowTank",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": 3100,
+            "region": "Europe",
+            "ilvl": 265,
+            "mythicPlusKey": 23,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3650782651577841906",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "LF TEAM to push 2s and 3s , PLS DONT BE MAD AT FIRST GAME",
+          "description": "",
+          "createdAt": "2022-04-29T16:08:42Z",
+          "scheduledAt": "2022-04-29T12:15:00-04:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 4,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "Unset",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "US",
+            "ilvl": 260,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "8473616705624767141",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Low gear DH 2.4+ exp lf teamate for cap and then pump rating",
+          "description": "",
+          "createdAt": "2022-04-28T18:53:50Z",
+          "scheduledAt": "2022-04-29T16:00:00Z",
+          "gameId": "WorldOfWarcraft",
+          "views": 14,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "2645578052223552706",
+          "type": "Public",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "2v2/3v3 Arenas with Viewers - IMPROVING TOGETHER at twitch.tv/mirohjai - playing with anyone for fun and practice!",
+          "description": "",
+          "createdAt": "2022-04-29T05:16:42Z",
+          "scheduledAt": "2022-04-29T15:30:00Z",
+          "gameId": "WorldOfWarcraft",
+          "views": 6,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6768096348196831808",
+          "type": "Waitlist",
+          "mode": "WowMythicPlus",
+          "inviteCode": null,
+          "name": "M+ team to push keys",
+          "description": "",
+          "createdAt": "2022-04-25T08:53:30Z",
+          "scheduledAt": "2022-04-29T16:00:00+01:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 31,
+          "slotsCount": 5,
+          "waitlistCount": 3,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowTank",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 3,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": 2800,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": 19,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "4728640022846940274",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "Rog+Spri looking for their third (rsham/hpala)",
+          "description": "",
+          "createdAt": "2022-04-29T14:49:29Z",
+          "scheduledAt": "2022-04-29T15:00:00Z",
+          "gameId": "WorldOfWarcraft",
+          "views": 21,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3120667106135068476",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "2.5 slxp fury war 4set ищу 2c 3c на пуш",
+          "description": "",
+          "createdAt": "2022-04-29T09:07:18Z",
+          "scheduledAt": "2022-04-29T18:00:00+04:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 17,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "2503278445434553602",
+          "type": "Waitlist",
+          "mode": "WowMythicPlus",
+          "inviteCode": null,
+          "name": "Looking for 2 dps and a healer that can play all weekend  25-26-27 keys",
+          "description": "",
+          "createdAt": "2022-04-28T12:00:09Z",
+          "scheduledAt": "2022-04-29T15:00:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 5,
+          "slotsCount": 5,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowTank",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 3,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": 3400,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": 25,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "5724797820682829913",
+          "type": "Waitlist",
+          "mode": "WowMythicPlus",
+          "inviteCode": null,
+          "name": "push",
+          "description": "",
+          "createdAt": "2022-04-28T10:21:37Z",
+          "scheduledAt": "2022-04-29T17:30:00+07:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 6,
+          "slotsCount": 5,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 3,
+              "taken": 1
+            },
+            {
+              "role": "WowTank",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": "TheaterOfPain",
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": 25,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3344564404950299160",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "FERAL LF HPRIST PUSH 2.1 RUS DIS",
+          "description": "",
+          "createdAt": "2022-04-29T09:55:06Z",
+          "scheduledAt": "2022-04-29T13:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 4,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "7907804157684479082",
+          "type": "Waitlist",
+          "mode": "WowMythicPlus",
+          "inviteCode": null,
+          "name": "m+ and fun",
+          "description": "",
+          "createdAt": "2022-04-29T08:35:01Z",
+          "scheduledAt": "2022-04-29T11:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 4,
+          "slotsCount": 5,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 3,
+              "taken": 1
+            },
+            {
+              "role": "WowTank",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": "MistsOfTirnaScithe",
+            "faction": "Horde",
+            "mythicPlusRating": 2600,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": 19,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "9137933958500392221",
+          "type": "Waitlist",
+          "mode": "WowRaid",
+          "inviteCode": null,
+          "name": "Gearing Petkoalpha",
+          "description": "",
+          "createdAt": "2022-04-28T18:09:38Z",
+          "scheduledAt": "2022-04-29T11:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 463,
+          "slotsCount": 19,
+          "waitlistCount": 3,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 14,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 3,
+              "taken": 1
+            },
+            {
+              "role": "WowTank",
+              "count": 2,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 260,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": "Heroic"
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "8980907260106481800",
+          "type": "Waitlist",
+          "mode": "WowMythicPlus",
+          "inviteCode": null,
+          "name": "PUSH RIO ALL WEEK 25+ KEYS",
+          "description": "",
+          "createdAt": "2022-04-27T07:00:13Z",
+          "scheduledAt": "2022-04-29T10:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 32,
+          "slotsCount": 5,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowTank",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 3,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": 3200,
+            "region": "Europe",
+            "ilvl": 270,
+            "mythicPlusKey": 25,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "4698856645575358060",
+          "type": "Public",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "lf heal 2.2k exp",
+          "description": "",
+          "createdAt": "2022-04-29T05:45:28Z",
+          "scheduledAt": "2022-04-29T09:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 3,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1946430713606493552",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "1820 cr/duelist xp- lf holy priest",
+          "description": "",
+          "createdAt": "2022-04-28T23:02:58Z",
+          "scheduledAt": "2022-04-29T02:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 3,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 255,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "8593012072054382903",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-28T17:04:36Z",
+          "scheduledAt": "2022-04-29T01:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "2818142800759763850",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "TURBO 3k EXP LF HEAL OR DPS",
+          "description": "",
+          "createdAt": "2022-04-28T17:49:46Z",
+          "scheduledAt": "2022-04-29T01:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 3,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1614445022580475423",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "2.1cr lf same to push 2,4",
+          "description": "",
+          "createdAt": "2022-04-28T19:49:39Z",
+          "scheduledAt": "2022-04-29T01:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 11,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1956123025380898814",
+          "type": "Public",
+          "mode": "WowMythicPlus",
+          "inviteCode": null,
+          "name": "mists 23",
+          "description": "",
+          "createdAt": "2022-04-28T22:16:55Z",
+          "scheduledAt": "2022-04-28T22:16:55Z",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 5,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowTank",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 3,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": 2800,
+            "region": "Europe",
+            "ilvl": 270,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": {
+            "inviteUrl": "https://discord.gg/mhzZsMjUFN",
+            "channelUrl": "https://discord.com/channels/834040826274906123/969361602358952066",
+            "messageUrl": "https://discord.com/channels/834040826274906123/925438606724698142/969361600949653524"
+          },
+          "form": null
+        },
+        {
+          "id": "1007603337528563159",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "1.8cr glad DH lf dk+heal prefer longterm team to push glad and even higher add me ingame",
+          "description": "",
+          "createdAt": "2022-04-28T13:44:45Z",
+          "scheduledAt": "2022-04-28T23:15:00+01:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 17,
+          "slotsCount": 3,
+          "waitlistCount": 2,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "9100902991515462818",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3s",
+          "description": "",
+          "createdAt": "2022-04-28T21:10:04Z",
+          "scheduledAt": "2022-04-29T05:15:00+07:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 22,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "4808204654896538363",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "RPS ",
+          "description": "",
+          "createdAt": "2022-04-28T22:07:10Z",
+          "scheduledAt": "2022-04-29T00:15:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 3,
+          "slotsCount": 3,
+          "waitlistCount": 1,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "7978239932227425930",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "2.1cr lf games",
+          "description": "",
+          "createdAt": "2022-04-28T19:48:24Z",
+          "scheduledAt": "2022-04-29T01:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 11,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "702578401489401210",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Arena with viewer #8 by Mevarys",
+          "description": "",
+          "createdAt": "2022-04-28T21:52:47Z",
+          "scheduledAt": "2022-04-29T01:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 9,
+          "slotsCount": 2,
+          "waitlistCount": 3,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "Unset",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1904612638482020363",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-28T17:04:22Z",
+          "scheduledAt": "2022-04-29T00:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 3,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "4113173382695579591",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "TURBO 3k EXP LF HEAL OR DPS",
+          "description": "",
+          "createdAt": "2022-04-28T17:49:35Z",
+          "scheduledAt": "2022-04-29T00:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6813286064471193886",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Arena with viewer #7 by Mevarys",
+          "description": "",
+          "createdAt": "2022-04-28T21:24:26Z",
+          "scheduledAt": "2022-04-29T00:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 8,
+          "slotsCount": 2,
+          "waitlistCount": 3,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "Unset",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6910709351077563289",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "LF chill cap",
+          "description": "",
+          "createdAt": "2022-04-28T21:09:23Z",
+          "scheduledAt": "2022-04-29T04:30:00+07:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 15,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "7810207881285471878",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "TURBO 3k EXP LF HEAL OR DPS",
+          "description": "",
+          "createdAt": "2022-04-28T17:49:22Z",
+          "scheduledAt": "2022-04-29T00:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 2,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1306188590175932480",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "LF chill cap",
+          "description": "",
+          "createdAt": "2022-04-28T19:16:03Z",
+          "scheduledAt": "2022-04-29T00:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 8,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "199884529178080969",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-28T17:03:56Z",
+          "scheduledAt": "2022-04-29T00:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 3,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "569035427992085645",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "TURBO PUMP",
+          "description": "",
+          "createdAt": "2022-04-27T17:13:02Z",
+          "scheduledAt": "2022-04-28T23:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 24,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6769501319125237692",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Arena with viewer #6 by Mevarys",
+          "description": "",
+          "createdAt": "2022-04-28T20:27:48Z",
+          "scheduledAt": "2022-04-28T23:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 8,
+          "slotsCount": 2,
+          "waitlistCount": 3,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "Unset",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "80843530208601252",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-28T17:03:39Z",
+          "scheduledAt": "2022-04-28T23:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 16,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "8544749515708174911",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Arena with viewer #5 by Mevarys",
+          "description": "",
+          "createdAt": "2022-04-28T20:05:57Z",
+          "scheduledAt": "2022-04-28T23:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 11,
+          "slotsCount": 2,
+          "waitlistCount": 6,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "Unset",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "4637526065993637631",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Arena with viewer #4 by Mevarys",
+          "description": "",
+          "createdAt": "2022-04-28T19:33:30Z",
+          "scheduledAt": "2022-04-28T22:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 13,
+          "slotsCount": 2,
+          "waitlistCount": 4,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "Unset",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1060364065017510437",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "fury lf 3s",
+          "description": "",
+          "createdAt": "2022-04-28T16:15:38Z",
+          "scheduledAt": "2022-04-28T22:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 11,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "1632554260075722179",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "TURBO 3k EXP LF HEAL OR DPS",
+          "description": "",
+          "createdAt": "2022-04-28T17:48:53Z",
+          "scheduledAt": "2022-04-28T22:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 3,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "397174735424773359",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-28T17:03:23Z",
+          "scheduledAt": "2022-04-28T22:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 22,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "9066616276408390384",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "chill cap",
+          "description": "",
+          "createdAt": "2022-04-26T22:39:42Z",
+          "scheduledAt": "2022-04-28T22:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 18,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "5310434598580240522",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3s",
+          "description": "",
+          "createdAt": "2022-04-28T17:21:16Z",
+          "scheduledAt": "2022-04-29T03:00:00+08:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 19,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "7968166747705143812",
+          "type": "Public",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "LF Main heal partner for 3s. Playing to learn arenas",
+          "description": "",
+          "createdAt": "2022-04-28T18:34:36Z",
+          "scheduledAt": "2022-04-28T21:00:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 3,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "8812785533067665332",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Arena with viewer #3 by Mevarys",
+          "description": "",
+          "createdAt": "2022-04-28T18:45:29Z",
+          "scheduledAt": "2022-04-28T22:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 14,
+          "slotsCount": 2,
+          "waitlistCount": 4,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "Unset",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6290596934158594627",
+          "type": "Public",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3s pushing",
+          "description": "",
+          "createdAt": "2022-04-28T18:57:50Z",
+          "scheduledAt": "2022-04-28T22:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 17,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6489325775581842968",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "TURBO 3k EXP LF HEAL OR DPS",
+          "description": "",
+          "createdAt": "2022-04-28T17:48:42Z",
+          "scheduledAt": "2022-04-28T21:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 17,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "2449901357080631678",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-28T17:03:09Z",
+          "scheduledAt": "2022-04-28T21:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 16,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "7723632132900199867",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "chill games",
+          "description": "",
+          "createdAt": "2022-04-28T16:36:32Z",
+          "scheduledAt": "2022-04-29T01:30:00+07:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 15,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3528160000724273016",
+          "type": "Waitlist",
+          "mode": "WowMythicPlus",
+          "inviteCode": null,
+          "name": "Ret lf 15m+ (i have key)",
+          "description": "",
+          "createdAt": "2022-04-28T16:30:13Z",
+          "scheduledAt": "2022-04-28T21:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 8,
+          "slotsCount": 5,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowTank",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 3,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6785670229148175885",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Arena with viewer #2 by Mevarys",
+          "description": "",
+          "createdAt": "2022-04-28T18:22:35Z",
+          "scheduledAt": "2022-04-28T21:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 17,
+          "slotsCount": 2,
+          "waitlistCount": 2,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "Unset",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "6315734278663888658",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "LF chill cap",
+          "description": "",
+          "createdAt": "2022-04-27T17:33:08Z",
+          "scheduledAt": "2022-04-28T18:00:00Z",
+          "gameId": "WorldOfWarcraft",
+          "views": 23,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3533269209738986882",
+          "type": "Public",
+          "mode": "WowMythicPlus",
+          "inviteCode": null,
+          "name": "Mythic push",
+          "description": "",
+          "createdAt": "2022-04-28T00:36:02Z",
+          "scheduledAt": "2022-04-28T20:00:00+02:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 4,
+          "slotsCount": 5,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowTank",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            },
+            {
+              "role": "WowDamage",
+              "count": 3,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 240,
+            "mythicPlusKey": 5,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "2555791126554512814",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "3.2k exp chill cap 2v2 3v3 heal/dd",
+          "description": "",
+          "createdAt": "2022-04-28T17:02:55Z",
+          "scheduledAt": "2022-04-28T21:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 15,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 220,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "271852593911575288",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Arena with viewer #1 by Mevarys",
+          "description": "",
+          "createdAt": "2022-04-28T17:46:45Z",
+          "scheduledAt": "2022-04-28T21:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 14,
+          "slotsCount": 2,
+          "waitlistCount": 2,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "Unset",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3242790322645396781",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "TURBO 3k EXP LF HEAL OR DPS",
+          "description": "",
+          "createdAt": "2022-04-28T17:47:58Z",
+          "scheduledAt": "2022-04-28T21:00:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 19,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "7622262077107498354",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "ret lf 3s",
+          "description": "",
+          "createdAt": "2022-04-28T16:15:08Z",
+          "scheduledAt": "2022-04-28T20:45:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 18,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "279356876124823524",
+          "type": "Waitlist",
+          "mode": "WowArena3v3",
+          "inviteCode": null,
+          "name": "chill games",
+          "description": "",
+          "createdAt": "2022-04-28T13:18:56Z",
+          "scheduledAt": "2022-04-29T00:30:00+07:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 18,
+          "slotsCount": 3,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 3,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 2,
+              "taken": 2
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": null,
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "4465059853999688950",
+          "type": "Waitlist",
+          "mode": "WowArena2v2",
+          "inviteCode": null,
+          "name": "Destr 2.2lsexp lf heal big cap chill games",
+          "description": "",
+          "createdAt": "2022-04-28T17:20:33Z",
+          "scheduledAt": "2022-04-28T20:30:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 3,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 1,
+          "slotsCountByRole": [
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 0
+            }
+          ],
+          "rating": null,
+          "language": "En",
+          "wow": {
+            "dungeon": null,
+            "faction": "Horde",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": 260,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        },
+        {
+          "id": "3969540047754645439",
+          "type": "Waitlist",
+          "mode": null,
+          "inviteCode": null,
+          "name": "Pump arena 2x2",
+          "description": "",
+          "createdAt": "2022-04-26T22:38:59Z",
+          "scheduledAt": "2022-04-28T20:15:00+03:00",
+          "gameId": "WorldOfWarcraft",
+          "views": 17,
+          "slotsCount": 2,
+          "waitlistCount": null,
+          "status": "Created",
+          "deleted": false,
+          "takenSlotsCount": 2,
+          "slotsCountByRole": [
+            {
+              "role": "WowHeal",
+              "count": 1,
+              "taken": 1
+            },
+            {
+              "role": "WowDamage",
+              "count": 1,
+              "taken": 1
+            }
+          ],
+          "rating": null,
+          "language": "Ru",
+          "wow": {
+            "dungeon": null,
+            "faction": "Alliance",
+            "mythicPlusRating": null,
+            "region": "Europe",
+            "ilvl": null,
+            "mythicPlusKey": null,
+            "raid": null,
+            "raidDifficulty": null
+          },
+          "wowBurningCrusade": null,
+          "lostArk": null,
+          "hearthstone": null,
+          "newWorld": null,
+          "warzone": null,
+          "dota2": null,
+          "csgo": null,
+          "discord": null,
+          "form": null
+        }
+      ],
+      "count": 2844
+    }
+  }
+}

@@ -25,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.nikti0316.Test_RN"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
